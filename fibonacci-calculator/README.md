@@ -12,15 +12,12 @@ This project highlights the integration of algorithm computation, user-friendly 
 ## 📂 Repository Structure
 Fibonacci-Calculator/
 - `src/` : MATLAB source code (`.mlapp` and `.m` files).
-- `report/` : LaTeX report (`main.tex`, `references.bib`) and figures.
-- `report/figures/` : Screenshots and flowcharts used in the report.
+- `preview/` : Screenshots and flowcharts used in the report.
 
 ---
 
 ## 🚀 Features
-- Generate Fibonacci sequences with **custom first two terms**.
 - Support for **Classic mode** (0,1) and **Custom mode** (a,b).
-- Results displayed in both **Text Area** and **Graph**.
 - **Error handling** for invalid inputs (e.g., n < 1).
 - Clean UI/UX design with MATLAB App Designer.
 
@@ -42,7 +39,7 @@ Fibonacci-Calculator/
 
 | UI Preview | Result Preview |
 |------------|----------------|
-| ![UI](images/screenshot_ui.png) | ![Result](images/screenshot_result.png) |
+| ![UI](preview/screenshot_ui.png) | ![Result](preview/screenshot_result.png) |
 
 ---
 
@@ -50,7 +47,14 @@ Fibonacci-Calculator/
 
 | Basic Fibonacci Algorithm | App Designer with UI |
 |---------------------------|----------------------|
-| ![Flowchart Basic](images/flowchart_fibonacci.png) | ![Flowchart UI](images/flowchart_ui.png) |
+| ![Flowchart Basic](preview/flowchart_fibonacci.png) | ![Flowchart UI](preview/flowchart_ui.png) |
+
+---
+
+## 🛠️ Requirements
+- MATLAB R2023a or later (tested with MATLAB R2025a).
+- MATLAB App Designer toolbox.
+- Basic knowledge of running `.mlapp` files.
 
 ---
 
