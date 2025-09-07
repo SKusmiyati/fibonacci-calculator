@@ -39,7 +39,7 @@ Fibonacci-Calculator/
 
 | UI Preview | Result Preview |
 |------------|----------------|
-| ![UI](preview/screenshot_ui.png) | ![Result](preview/screenshot_result.png) |
+| ![UI](fibonacci-calculator/preview/screenshot_ui.png) | ![Result](fibonacci-calculator/preview/screenshot_result.png) |
 
 ---
 
@@ -47,7 +47,7 @@ Fibonacci-Calculator/
 
 | Basic Fibonacci Algorithm | App Designer with UI |
 |---------------------------|----------------------|
-| ![Flowchart Basic](preview/flowchart_fibonacci.png) | ![Flowchart UI](preview/flowchart_ui.png) |
+| ![Flowchart Basic](fibonacci-calculator/preview/flowchart_fibonacci.png) | ![Flowchart UI](fibonacci-calculator/preview/flowchart_ui.png) |
 
 ---
 
